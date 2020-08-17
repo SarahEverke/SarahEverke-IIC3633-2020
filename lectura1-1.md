@@ -7,7 +7,7 @@ Los autores comentaron en la sección 3.1.3 que la similud ajustada del coseno e
 
 También explican que en su metodología propuesta ellos sólo van a calcular los k ítemes más parecidos con k << n. Pero, me gustaría saber que sucede si los usuarios ingresan nuevas preferencias ya que esto podría modificar la lista de los objetos más similares. ¿Habría que volver a calcular los k objetos más cercanos cada vez que un usuario agrega un *rating* o esperar a que varios usuarios hayan añadido nuevos *ratings*?
 
-No obstante, no me pareció adecuado que no explicasen por qué sólo consideraron los usuarios que habían calificado más de 20 películas en su set de datos. ¿Qué sucede con los usuarios que no cumplen con ese criterio?
+No me pareció adecuado que no explicasen por qué sólo consideraron los usuarios que habían calificado más de 20 películas en su set de datos. ¿Qué sucede con los usuarios que no cumplen con ese criterio?
 
 Tampoco indican por qué utilizan el *rating* que le dan los usuarios a los ítemes para calcular la similitud entre estos. Tal vez, podrían haber considerado otros factores como las descripciones de estos. 
 
