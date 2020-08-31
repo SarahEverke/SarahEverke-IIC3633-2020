@@ -4,6 +4,8 @@ Los autores Shani y Gunawardana explican tres tipos de experimentos utilizados p
 *  Las pruebas *offline* utilizan conjuntos de datos con información que relaciona a los usuarios con los ítems como *ratings*.  
 *  Los estudios de usuarios (*user studies*) se caracterizan por involucrar a usuarios de prueba y solicitarles que interactúen con los sistemas recomendadores.
 *  Las evaluciones *online* seleccionan aleatoriamente a una muestra de usuarios reales que utilicen los sistemas. 
+
+
 Luego, explican diversas propiedades de los sistemas recomedadores como preferencia del usuario, precisión de la predicción, cobertura, robutez, etc. Para cada una explican cómo evaluarlas. A continuación, comentaré aspectos que considero interesantes y las dudas que tuve luego de leer el texto.
 
 Primero, fue interesante que los autores expongan dos metologías de evaluación que involucran interacción directa con los usuarios, ya que a lo largo del curso nos habíamos enfocado en pruebas *online*, que simulan el comportamiento de los usuarios mediante *sets* de datos. Con este nuevo enfoque se puede complementar el análisis. Por ejemplo, en los *user studies* no sólo se obtiene información cuantitativa sino que también cualitativa como sus opiniones, su comportamiento al interactuar con el sistema, etc.
