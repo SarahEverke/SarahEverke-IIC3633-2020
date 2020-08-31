@@ -12,6 +12,8 @@ Primero, fue interesante que los autores expongan dos metologías de evaluación
 
 Segundo, me habría gustado que profundizarán más en cómo evaluar los datos cualitativos. Por ejemplo, en un ramo Antro-Diseño (IDI2015) los analizan a través de la teoría fundamentada que 
 > exige identificar categorías teóricas que son derivadas de los datos mediante la utilización de un método comparativo constante, recurriendo a la sensibilidad teórica del investigador (Mórales, 2015)
+
+
 Este método era útil porque permitía examinar los datos según los temas o subtemas que eran recurrentes y con estos interpretar el fenómeno estudiado. 
 
 Tercero, considero que uno no sólo debe preocuparse en que el sistema recomendador tenga la mejor precisión. Personalmente, creo que la diversidad de las recomendaciones es un factor esencial. Permite que los usuarios interactúen con contenidos distintos a los que normalmente prefieren. Por ejemplo, Twitter en 2019 fue acusado en varios medios de comunicación de amplificar la retórica política extremista porque le sugiere contenido más extremista a personas con esas tendencias (CNN, 2019). 
