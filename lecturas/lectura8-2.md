@@ -10,6 +10,8 @@ Tercero, considero que el diagrama de Venn fue una buena herramienta para mostra
 
 Cuarto, siento que faltó que la interfaz explicase el orden de las recomendaciones. Por ejemplo, en la Figura 1, se ve que:
 * en segundo lugar está un *paper* que fue recomendado por los filtros que tienen un peso igual a 0.4 cada uno. En cambio, en la tercera posición está un trabajo que fue seleccionado por recomendadores, cuyos pesos son 0.4 y 0.6.
+
+
 Entonces, no queda claro cómo ordena a los *papers*, debido a que intuitivamente esperaba que estuviesen más arriba los textos que son recomendados por filtros a los que se les asignaron un mayor peso. 
 
 Quinto, mencionan que con la interfaz los usuarios agregaron más textos a sus listas de favoritos (*bookmarked*). No obstante, esto no indica si efectivamente las recomendaciones fueron más útiles para los usuarios. 
