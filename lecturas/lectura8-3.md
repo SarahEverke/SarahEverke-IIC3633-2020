@@ -4,6 +4,8 @@ Los autores estudian cómo el aumento de inspeccionabilidad y control en el proc
 1. Los usuarios pueden modificar ajustar los pesos de los ítems que les gustan y de la confianza que le tienen a los gustos de sus amigos. En caso de que el usuario sea asignado al grupo *"no control"* no realiza este paso.
 2. Los participantes puede ver una lista de las recomendaciones o un grafo explicativo.
 3. Los usuarios responden un cuestionario sobre su experiencia.
+
+
 Tras, realizar el experimento los autores concluyeron que tanto la inspeccionabilidad como el control sobre las recomendaciones mejora la experiencia de los participantes. A continuación, comentaré aspectos que considero interesantes y las dudas que tuve luego de leer el texto.
 
 Primero, la forma en que Knijnenburg et al. le muestran la información a los usuarios es relevante, ya que los participantes que vieron el grafo explicativo lo inspeccionaron por más tiempo. Esto es interesante porque muestra que la manera en que se le entrega la información a un usuario afecta su comprensión del sistema. 
