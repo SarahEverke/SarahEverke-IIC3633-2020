@@ -2,9 +2,7 @@
 
 Cañamares et. al analizan el rendimiento de incorporar *multi-armed bandits* en el diseño de sistemas de recomendación dinámicos que seleccionan lo mejor entre varios algoritmos según el desempeño anterior de cada candidato. A continuación, comentaré aspectos que consideré interesantes y las dudas que tuve luego de leer el *paper*.
 
-Primero, considero interesante que se refieran al proceso de filtrado como cíclico, ya que así el proceso le entrega la posibilidad a los ensambles de observar y aprender en cada iteración. Esto permite que 
-
- mejora la configuración del ensamble progresivamente. 
+Primero, considero interesante que se refieran al proceso de filtrado como cíclico, ya que así el proceso le entrega la posibilidad a los ensambles de observar y aprender en cada iteración. A diferencia de un paradigma de aprendizaje *offline* donde dado un volumen de datos se se entrena un modelo, en este proceso cíclico se permite que configuración del ensamble mejore progresivamente. 
 
 Segundo, en este proceso cícilo se está utilizando *reinforcement learning*, área de la inteligencia artificial inspirada en psocología conductiva, ya que las acciones que realiza el agente en un entrono son interpretadas como una recompensa, que luego retroalimanta al *bandit*. El comportamiento del agente es modificado en cada iteración según la recompensa. Con *reinforcement learning* surge el desafío de aprender los intereses del usuario y simultaneamente explotarlos para realizar la recomendaciones mientras opera el sistema (Parra, 2019).
 
