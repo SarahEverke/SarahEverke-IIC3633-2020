@@ -1,4 +1,4 @@
-# Crítica: * Carousel Personalization in Music Streaming Apps with Contextual Bandits*
+# Crítica: *Carousel Personalization in Music Streaming Apps with Contextual Bandits*
 
 Bendana et. al modelan la personalización de *swipeable carousels*, listas *rankeadas* de ítems como un problema de *multi-armed bandit*. A continuación, comentaré aspectos que considero interesantes y las dudas que tuve luego de leer el texto.
 
