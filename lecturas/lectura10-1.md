@@ -6,7 +6,7 @@ Primero, los autores señalan al inicio del texto que:
 
 > Recommender systems are an intuitive line of defense against cosumer over-choise.
 
-Considero que esto es interesante porque se expone que tener demasiadas opciones puede ser perjudicial para el usuario. Es más, Scheibehenne (2008) indica que cuando hay muchas opciones disponibles, los consumidores pueden sentirse ansiosos, desconectados e incluso pueden deprimirse. Por lo que, los sistemas recomendadores son un beneficio al usuario, ya que le muestran una selección menor de ítems a los consumidores.
+Considero que esto es interesante porque se expone que tener demasiadas opciones puede ser perjudicial para el usuario. Es más, Scheibehenne (2008) indica que cuando hay muchas opciones disponibles, los consumidores pueden sentirse ansiosos, desconectados e incluso pueden deprimirse. Por lo que, los sistemas recomendadores son beneficios para el usuario, ya que le muestran una selección menor y personalizada de ítems.
 
 Segundo, en la sección 3.2 los autores indican que en CML, MLP se utiliza para aprender representaciones de ítems como textos, imágenes o *tags* sin la necesidad de realizar *feature engineering*. Por ejemplo, mediante *feature engineering* se determinaron características como LBP o las 7 métricas de atractivo visual, que fueron desarrolladas por expertos en esa área. En cambio, con *deep learning* se puede utilizar una red como *AlexNet* para obtener descriptores de imágenes. Esto es más rápido, ya que no requiere crear nuevas características en caso de que las actuales (como LBP) no sean suficientes. No obstante, se desconoce con qué criterio MLP representó a los ítems e impide que puedan ser interpretados los descriptores.
 
