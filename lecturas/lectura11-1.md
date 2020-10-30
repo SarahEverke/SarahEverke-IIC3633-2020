@@ -14,7 +14,7 @@ Cuarto, me preocupa que los usuarios no puedan decidir que información pueden u
 
 > However, the session or cookie mechanisms enables those systems to get user`s short term preferences.
 
-Sin embargo, ¿hasta que punto se puede explotar la información privada de una persona para obtener una mejor recomendación? ¿Se debiese regular que datos pueden explotar los algoritmos?
+Sin embargo, ¿hasta que punto se puede explotar la información privada de una persona para obtener una mejor recomendación? ¿Se debiese regular qué datos pueden explotar los algoritmos? 
 
 Referencias:
 
