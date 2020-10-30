@@ -10,6 +10,12 @@ Segundo, los autores desmienten que las recomendaciones con *deep learning* care
 
 Tercero, concuerdo con los autores en que en el área faltan criterios comunes al evaluar los modelos, ya que en los *papers* que he leído durante el curso utilizan diversos *baselines*, métricas de evaluación, no especifican los parámetros de los algoritmos o no especifican cómo dividieron los sets de testeo y entrenamiento. Claramente, es una tarea compleja ya que, por ejemplo, no todos los algoritmos pueden utilizar las mismas métricas (MAE) como en el caso de filtrado con información implícita o explícita.
 
+Cuarto, me preocupa que los usuarios no puedan decidir que información pueden usar los programadores para desarrollar los sistemas recomendadores. En el texto mencionan que:
+
+> However, the session or cookie mechanisms enables those systems to get user`s short term preferences.
+
+Sin embargo, ¿hasta que punto se puede explotar la información privada de una persona para obtener una mejor recomendación? 
+
 Referencias:
 
 * West, M. (2019). *An Introduction to Deep Learning*. Recuperado de 
